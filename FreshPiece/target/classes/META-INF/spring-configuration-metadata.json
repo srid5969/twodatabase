@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "db2.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.javadevjournal.product.config.ProductConfig",
+      "sourceMethod": "public javax.sql.DataSource dataSource() "
+    },
+    {
+      "name": "spring.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.javadevjournal.customer.config.CustomerConfig",
+      "sourceMethod": "public javax.sql.DataSource customerDataSource() "
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

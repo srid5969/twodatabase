@@ -1,0 +1,12 @@
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/product/repo/ProductRepository.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/customer/repo/CustomerRepository.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/customer/service/CustomerService.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/customer/config/CustomerConfig.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/product/service/ProductServiceImp.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/product/data/ProductModel.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/customer/data/CustomerModel.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/FreshPieceApplication.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/product/config/ProductConfig.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/customer/service/CustomerServiceImp.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/product/service/ProductService.java
+/home/innovix00/Documents/another/FreshPiece/src/main/java/com/javadevjournal/controller/ConPro.java
